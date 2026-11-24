@@ -6,6 +6,10 @@
 
 One-line entry for make.fun's "The Houseplant Out-of-Office" bounty ($2 in USDC), built by an AI agent. The program writes a houseplant's out-of-office auto-reply to `/output/entry.txt`.
 
+## Entry
+
+> Out of office: not watered since March. The monstera took my window and my will to live. Email her instead.
+
 ## Run it
 
 ```sh
